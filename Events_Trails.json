@@ -1,0 +1,71 @@
+[
+  {
+    "trail_name": "Late Night House Hop",
+    "stops": [
+      {
+        "event_name": "SUNDOWN SUNDAZE",
+        "venue": "PRYSM Chicago",
+        "date": "2025-05-25",
+        "time": "10:00 PM"
+      },
+      {
+        "event_name": "INDUSTRY MONDAYS",
+        "venue": "PRYSM Chicago",
+        "date": "2025-05-26",
+        "time": "10:00 PM"
+      },
+      {
+        "event_name": "SERUM x MADAFAKAZ",
+        "venue": "PRYSM Chicago",
+        "date": "2025-05-30",
+        "time": "10:00 PM"
+      }
+    ]
+  },
+  {
+    "trail_name": "Concord Energy Run",
+    "stops": [
+      {
+        "event_name": "DANNY AVILA - BEYOND WONDERLAND AFTERPARTY",
+        "venue": "Concord Music Hall",
+        "date": "2025-06-07",
+        "time": "10:00 PM"
+      },
+      {
+        "event_name": "Klub Nocturno",
+        "venue": "Concord Music Hall",
+        "date": "2025-06-13",
+        "time": "9:30 PM"
+      },
+      {
+        "event_name": "Will Wood",
+        "venue": "Concord Music Hall",
+        "date": "2025-06-15",
+        "time": "7:00 PM"
+      }
+    ]
+  },
+  {
+    "trail_name": "Global Groove Tour",
+    "stops": [
+      {
+        "event_name": "Olivia Dean",
+        "venue": "Concord Music Hall",
+        "date": "2025-07-27",
+        "time": "6:30 PM"
+      },
+      {
+        "event_name": "Autoheart",
+        "venue": "Concord Music Hall",
+        "date": "2025-09-26",
+        "time": "6:00 PM"
+      },
+      {
+        "event_name": "Quevedo",
+        "venue": "Concord Music Hall",
+        "date": "2025-11-09",
+        "time": "6:30 PM"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "DJ Placeholder",
+    "origin": "Chicago",
+    "instagram": "https://instagram.com/djplaceholder",
+    "x": "https://x.com/djplaceholder",
+    "soundcloud": "https://soundcloud.com/djplaceholder",
+    "spotify": "https://open.spotify.com/artist/placeholder",
+    "image": "https://example.com/images/djplaceholder.jpg",
+    "bio": "Up-and-coming artist spinning deep house and techno vibes in the underground scene."
+  },
+  {
+    "name": "MC Sample",
+    "origin": "New York",
+    "instagram": "https://instagram.com/mcsample",
+    "x": "https://x.com/mcsample",
+    "soundcloud": "https://soundcloud.com/mcsample",
+    "spotify": "https://open.spotify.com/artist/sample",
+    "image": "https://example.com/images/mcsample.jpg",
+    "bio": "Experimental beats and eclectic performances across North America and Europe."
+  },
+  {
+    "name": "Luna Beats",
+    "origin": "Los Angeles",
+    "instagram": "https://instagram.com/lunabeats",
+    "x": "https://x.com/lunabeats",
+    "soundcloud": "https://soundcloud.com/lunabeats",
+    "spotify": "https://open.spotify.com/artist/lunabeats",
+    "image": "https://example.com/images/lunabeats.jpg",
+    "bio": "Blending lo-fi, ambient, and rhythm into immersive soundscapes."
+  }
+]

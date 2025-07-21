@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Concord Music Hall",
+    "address": "2047 N Milwaukee Ave, Chicago, IL 60647",
+    "latitude": 41.9183,
+    "longitude": -87.6866,
+    "website": "https://concordmusichall.com",
+    "eventsLink": "https://concordmusichall.com/calendar/"
+  },
+  {
+    "name": "Electric Hotel",
+    "address": "222 W Ontario St, Chicago, IL 60654",
+    "latitude": 41.8934,
+    "longitude": -87.6352,
+    "website": "https://electrichotelchicago.com",
+    "eventsLink": "https://electrichotelchicago.com/"
+  },
+  {
+    "name": "Joy District",
+    "address": "112 W Hubbard St, Chicago, IL 60654",
+    "latitude": 41.8895,
+    "longitude": -87.6314,
+    "website": "https://joychicago.com",
+    "eventsLink": "https://joychicago.com/event-calendar"
+  },
+  {
+    "name": "Outset",
+    "address": "1675 N Elston Ave, Chicago, IL 60642",
+    "latitude": 41.9126,
+    "longitude": -87.6634,
+    "website": "https://outsetlive.com",
+    "eventsLink": "https://outsetlive.com/events/"
+  },
+  {
+    "name": "Primary Night Club",
+    "address": "5 W Division St, Chicago, IL 60610",
+    "latitude": 41.9037,
+    "longitude": -87.6291,
+    "website": "https://primarynightclub.com",
+    "eventsLink": "https://primarynightclub.com/"
+  },
+  {
+    "name": "PRYSM",
+    "address": "1543 N Kingsbury St, Chicago, IL 60642",
+    "latitude": 41.9108,
+    "longitude": -87.6515,
+    "website": "https://prysmchicago.com",
+    "eventsLink": "https://www.prysmchicago.com/events"
+  },
+  {
+    "name": "Radius",
+    "address": "640 W Cermak Rd, Chicago, IL 60616",
+    "latitude": 41.8545,
+    "longitude": -87.6426,
+    "website": "https://radius-chicago.com",
+    "eventsLink": "https://radius-chicago.com/events/all"
+  },
+  {
+    "name": "Smartbar",
+    "address": "3730 N Clark St, Chicago, IL 60613",
+    "latitude": 41.9509,
+    "longitude": -87.6542,
+    "website": "https://smartbarchicago.com",
+    "eventsLink": "https://smartbarchicago.com/events/"
+  },
+  {
+    "name": "Smoke & Mirrors",
+    "address": "2045 N Milwaukee Ave, Chicago, IL 60647",
+    "latitude": 41.9182,
+    "longitude": -87.6865,
+    "website": "https://smokeandmirrorschicago.com",
+    "eventsLink": "https://smokeandmirrorschicago.com/#event"
+  },
+  {
+    "name": "Sound-Bar",
+    "address": "226 W Ontario St, Chicago, IL 60654",
+    "latitude": 41.8934,
+    "longitude": -87.6351,
+    "website": "https://sound-bar.com",
+    "eventsLink": "https://sound-bar.com/"
+  },
+  {
+    "name": "Spybar",
+    "address": "646 N Franklin St, Chicago, IL 60654",
+    "latitude": 41.8939,
+    "longitude": -87.6364,
+    "website": "https://spybarchicago.com",
+    "eventsLink": "https://spybarchicago.com/"
+  },
+  {
+    "name": "TAO Chicago",
+    "address": "632 N Dearborn St, Chicago, IL 60654",
+    "latitude": 41.8948,
+    "longitude": -87.6307,
+    "website": "https://taochicago.com",
+    "eventsLink": "https://taogroup.com/venues/tao-nightclub-chicago/events/"
+  },
+  {
+    "name": "The Point",
+    "address": "1565 N Milwaukee Ave, Chicago, IL 60622",
+    "latitude": 41.9098,
+    "longitude": -87.6763,
+    "website": "https://thepointchi.com",
+    "eventsLink": "https://thepointchi.com/"
+  },
+  {
+    "name": "The Salt Shed",
+    "address": "1357 N Elston Ave, Chicago, IL 60642",
+    "latitude": 41.9067,
+    "longitude": -87.659,
+    "website": "https://saltshedchicago.com",
+    "eventsLink": "https://saltshedchicago.com/home#saltycuriosities"
+  }
+]
